@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Soy Ingeniero DevOps con más de 15 años de experiencia en el desarrollo de software y 5 años dedicados a la automatización, integración continua y gestión de infraestructura.<br>Tengo un fuerte enfoque en la implementación de pipelines CI/CD, así como en la gestión de contenedores con Docker, Docker Swarm y Kubernetes, y la optimización de servicios en la nube con AWS.<br>He liderado iniciativas clave de migración a la nube y automatización que han mejorado significativamente la productividad y reducido el tiempo de inactividad. <br>Gracias a mi amplia experiencia en desarrollo de software, colaboro eficazmente con los equipos de desarrollo para fomentar prácticas de mejora continua, asegurando la entrega rápida y confiable de productos de alta calidad.
+DevOps Enginieer con más de 15 años de experiencia en el desarrollo de software y 5 años dedicados a la automatización, integración continua y gestión de infraestructura.<br>Tengo un fuerte enfoque en la implementación de pipelines CI/CD, así como en la gestión de contenedores con Docker, Docker Swarm y Kubernetes, y la optimización de servicios en la nube con AWS.<br>He liderado iniciativas clave de migración a la nube y automatización que han mejorado significativamente la productividad y reducido el tiempo de inactividad. <br>Gracias a mi amplia experiencia en desarrollo de software, colaboro eficazmente con los equipos de desarrollo para fomentar prácticas de mejora continua, asegurando la entrega rápida y confiable de productos de alta calidad.
 
 
 ## 🌐 Socials:
